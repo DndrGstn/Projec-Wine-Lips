@@ -1,23 +1,3 @@
-## Table Of Contents:
-1. [Design & Planning](#design-&-planning)
-    * [User Stories](#user-stories)
-    * [Wireframes](#wireframes)
-    * [Typography](#typography)
-    * [Colour Scheme](#colour-scheme)
-
-    
-2. [Features](#features)
-    * [Navigation](#Navigation)
-    * [Footer](#Footer)
-    * [Home page](#Home-page)
-    * [Other features](#Other-features)
-
-3. [Technologies Used](#technologies-used)
-4. [Testing](#testing)
-5. [Bugs](#bugs)
-6. [Deployment](#deployment)
-7. [Credits](#credits)
-
 ## Design & Planning:
 I chose to create a website for one of my favorite bands, Wine Lips. I really love their energetic, psychedelic aesthetic and wanted to capture and expand on that visual style throughout the site.
 

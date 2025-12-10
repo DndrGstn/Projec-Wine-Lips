@@ -1,8 +1,36 @@
-## Design & Planning:
-I chose to create a website for one of my favorite bands, Wine Lips. I really love their energetic, psychedelic aesthetic and wanted to capture and expand on that visual style throughout the site.
+##Wine Lips Website Project Documentation
+Project Overview
 
-My goal was to design an easy-to-navigate website that lets visitors quickly discover who the band is, explore their music, find concert dates, look through merch, and read essential information about the band. The site focuses on a retro, 70s-inspired vibe to match Wine Lips’ look and feel, while still being simple, functional, and enjoyable to use.
+The Wine Lips website is designed to reflect the band's vibrant, energetic, and psychedelic style. The site is visually engaging while providing fans with easy access to information about the band, their music, merch, and tour dates.
 
+Pages
+
+Home Page – A visual introduction to the band, showcasing their happy, cool aesthetic.
+<img width="1920" height="1032" alt="Screenshot 2025-12-10 010128" src="https://github.com/user-attachments/assets/6cd52353-258f-4f1b-880d-80ec4f258974" />
+
+About Page – A section where fans can learn more about the band, their history, and their origins.
+
+<img width="1920" height="1032" alt="Screenshot 2025-12-10 010151" src="https://github.com/user-attachments/assets/11fc261a-6a66-4d2d-8cc4-c8a531c87451" />
+
+Merch Page – An online store for purchasing clothing, bags, vinyl, and albums. Links to Bandcamp for transactions.
+<img width="1920" height="1032" alt="Screenshot 2025-12-10 010220" src="https://github.com/user-attachments/assets/31d9c721-d6e4-4e8c-b796-11bcc9f21a26" />
+
+Tour Page – Lists upcoming tour dates and includes a signup form to receive updates about tours and album releases.
+<img width="1920" height="1032" alt="Screenshot 2025-12-10 010253" src="https://github.com/user-attachments/assets/c69c94ed-2150-4abd-a387-19953f3a8cfe" />
+
+##Design & Planning
+
+I chose to design this website for Wine Lips because I love their energetic, psychedelic aesthetic and wanted to expand it into an engaging web experience. The site uses a retro, 70s-inspired visual style while remaining functional, simple, and user-friendly.
+
+Goal: To create a website that allows visitors to:
+
+Quickly learn about the band
+
+Explore their music and merch
+
+View tour dates
+
+Sign up for updates
 ### User Stories
 
 
@@ -10,16 +38,30 @@ My goal was to design an easy-to-navigate website that lets visitors quickly dis
 ### Wireframes
 Attach wireframes in this section
 ### Typography
-i use Arial. its very clean and easaly read 
+Font: Arial
+
+Reason: Clean, easily readable, and works well with the retro aesthetic.
 ### Colour Scheme
-i wanted to use vibrant colours to match the estetic of the band
+Vibrant, psychedelic colours to match the band’s style.
 
 <img width="1868" height="326" alt="colour scheme" src="https://github.com/user-attachments/assets/9955d3ad-dc37-4048-94b4-a99f32e7fb44" />
 
-## Features:
-The Wine Lips website features a top navigation bar with links to Home, About Us, Merch, and Tour. The Home page introduces the band, while About Us provides background information. The Merch page links externally to Bandcamp for purchasing albums and merchandise. The Tour page lists upcoming events and includes a sign-up form for visitors to submit their details for updates or newsletters. The site uses a simple, static layout with clear navigation, functional links, and a clean, responsive design, making it easy for users to browse and access information.
-### Navigation
-The navigation is simple and intuitive. Each section of the site is clearly labeled, and I can move between pages without confusion. All it takes is pressing the button for the page you want, making the site easy to explore even for first-time visitors.
+## Features and Navigation
+
+Navigation: Top bar with links to Home, About, Merch, and Tour.
+
+Home Page: Introduces the band visually.
+
+About Page: Provides background information about the band.
+
+Merch Page: Links externally to Bandcamp for purchasing albums and merchandise.
+
+Tour Page: Lists upcoming events and includes a signup form for newsletters and updates.
+
+Responsive Design: Works across different devices and screen sizes.
+
+Footer: Contains copyright and navigation links.
+
 ### Footer
 ### Other features
 I implemented a signup form that allows visitors to subscribe for updates from the band. By joining the mailing list, users can receive information about new tours, album releases, and other important announcements. This feature helps keep fans engaged and ensures they never miss out on upcoming events or new music.
@@ -27,14 +69,30 @@ I implemented a signup form that allows visitors to subscribe for updates from t
 
 List of technologies used for your project...
 HTML
+
 CSS
+
 Bootstrap
-Github
-chatGPT
-youtube
+
+GitHub (for deployment)
+
+ChatGPT (assistance and guidance)
+
+YouTube tutorials (for navbar and layout help)
 
 ## Testing
-Important part of your README!!!
+Browser Testing
+Microsoft Edge
+<img width="1920" height="1032" alt="Screenshot 2025-12-10 010151" src="https://github.com/user-attachments/assets/567cc36e-167d-4370-8b5d-2062b181f549" />
+
+iPhone
+<img width="946" height="2049" alt="image" src="https://github.com/user-attachments/assets/4c1a5936-e1c2-49a3-a160-d8f17ec4bd80" />
+
+Firefox
+<img width="1920" height="1032" alt="Firefox" src="https://github.com/user-attachments/assets/0afe9dce-a727-4d51-ad5a-2cbe620b6139" />
+
+
+
 
 ### Google's Lighthouse Performance
 <img width="1003" height="931" alt="Screenshot 2025-12-10 005911" src="https://github.com/user-attachments/assets/b6b62550-aab2-4c20-9016-33d5ffe8f4dc" />
@@ -50,11 +108,13 @@ Safari Mobile
 <img width="1247" height="772" alt="website" src="https://github.com/user-attachments/assets/495eb11b-91e8-4656-918b-482262a05552" />
 
 ### Code Validation
-HTML
+
+HTML: Validated successfully
 <img width="1920" height="1032" alt="html valid 1" src="https://github.com/user-attachments/assets/26cc1800-7bb4-491f-9f57-e6c115715004" />
 <img width="1920" height="1032" alt="html vali 2" src="https://github.com/user-attachments/assets/b3e57621-8088-4682-aa40-258b4a2b2435" />
 <img width="1920" height="1032" alt="html valid 3" src="https://github.com/user-attachments/assets/e6d6e8d1-a5d4-4425-ae86-5600206493c3" />
-CSS
+
+CSS: Validated successfully
 <img width="1920" height="1032" alt="css valid 1" src="https://github.com/user-attachments/assets/55947723-ee79-464c-8744-aa180485bd15" />
 <img width="1920" height="1032" alt="css valid 2" src="https://github.com/user-attachments/assets/d369116c-1eaa-4944-9f75-25c79897ddd4" />
 <img width="1920" height="1032" alt="css valid 3" src="https://github.com/user-attachments/assets/95ab781d-f0b5-4a98-8e80-09bd973b808d" />
@@ -68,29 +128,35 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 
 ## Bugs
-navbar bug: it changes size depending on witch page you are on. 
-Fix i copy and pasted all the dimentions from one page to the others so everyting matched
+Navbar resizing: Fixed by standardizing dimensions across pages.
 
-navbar bug: the items spacing switch sometimes when pressed. 
-Fix i accedentaly had a space in one of the navbars in my HTML code
+Navbar item spacing: Fixed accidental extra space in HTML.
+
 
 ## Deployment
- the website is hosted by github
+
+Hosted on GitHub Pages.
 
 ## Credits
- i used a youtubetutorial for my navbar 
+Navbar tutorial:
  https://www.youtube.com/watch?v=f3uCSh6LIY0&t=314s
 
- backgroundpicture from this site 
- https://stomprecords.com/bands/wine-lips/
+Background image: 
+Stomp Records
+https://stomprecords.com/bands/wine-lips/
 
- used a logo from one of wine lips musicvideo 
- https://www.youtube.com/watch?v=ZPT11C8iU-w
- i screenshot it and then made it transparent in photoshop
+Logo: Screenshot from a Wine Lips music video, edited in Photoshop
+https://www.youtube.com/watch?v=ZPT11C8iU-w
 
- i also used Code institutes learningplatform to do the positioning (and everyting else)
+Code positioning and layout help: Code Institute learning platform
 
- i also had som help from all our good friend chatGPT
+Additional help: ChatGPT
  
+
+
+
+
+
+
 
  

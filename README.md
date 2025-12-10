@@ -59,6 +59,16 @@ Check compatability with different browsers
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
+HTML
+<img width="1920" height="1032" alt="html valid 1" src="https://github.com/user-attachments/assets/26cc1800-7bb4-491f-9f57-e6c115715004" />
+<img width="1920" height="1032" alt="html vali 2" src="https://github.com/user-attachments/assets/b3e57621-8088-4682-aa40-258b4a2b2435" />
+<img width="1920" height="1032" alt="html valid 3" src="https://github.com/user-attachments/assets/e6d6e8d1-a5d4-4425-ae86-5600206493c3" />
+CSS
+<img width="1920" height="1032" alt="css valid 1" src="https://github.com/user-attachments/assets/55947723-ee79-464c-8744-aa180485bd15" />
+<img width="1920" height="1032" alt="css valid 2" src="https://github.com/user-attachments/assets/d369116c-1eaa-4944-9f75-25c79897ddd4" />
+<img width="1920" height="1032" alt="css valid 3" src="https://github.com/user-attachments/assets/95ab781d-f0b5-4a98-8e80-09bd973b808d" />
+
+
 Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 

@@ -1,4 +1,4 @@
-##Wine Lips Website Project Documentation
+### Wine Lips Website Project Documentation
 Project Overview
 
 The Wine Lips website is designed to reflect the band's vibrant, energetic, and psychedelic style. The site is visually engaging while providing fans with easy access to information about the band, their music, merch, and tour dates.
@@ -18,7 +18,7 @@ Merch Page – An online store for purchasing clothing, bags, vinyl, and albums.
 Tour Page – Lists upcoming tour dates and includes a signup form to receive updates about tours and album releases.
 <img width="1920" height="1032" alt="Screenshot 2025-12-10 010253" src="https://github.com/user-attachments/assets/c69c94ed-2150-4abd-a387-19953f3a8cfe" />
 
-##Design & Planning
+### Design & Planning
 
 I chose to design this website for Wine Lips because I love their energetic, psychedelic aesthetic and wanted to expand it into an engaging web experience. The site uses a retro, 70s-inspired visual style while remaining functional, simple, and user-friendly.
 

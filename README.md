@@ -24,6 +24,7 @@ The navigation is simple and intuitive. Each section of the site is clearly labe
 ### Other features
 I implemented a signup form that allows visitors to subscribe for updates from the band. By joining the mailing list, users can receive information about new tours, album releases, and other important announcements. This feature helps keep fans engaged and ensures they never miss out on upcoming events or new music.
 ## Technologies Used
+
 List of technologies used for your project...
 HTML
 CSS
@@ -31,18 +32,23 @@ Bootstrap
 Github
 chatGPT
 youtube
+
 ## Testing
 Important part of your README!!!
+
 ### Google's Lighthouse Performance
 <img width="1003" height="931" alt="Screenshot 2025-12-10 005911" src="https://github.com/user-attachments/assets/b6b62550-aab2-4c20-9016-33d5ffe8f4dc" />
+
 ### Browser Compatibility
 works on
 Microsoft edge
 Firefox
 Google Chrome
 Safari Mobile
+
 ### Responsiveness
 <img width="1247" height="772" alt="website" src="https://github.com/user-attachments/assets/495eb11b-91e8-4656-918b-482262a05552" />
+
 ### Code Validation
 HTML
 <img width="1920" height="1032" alt="html valid 1" src="https://github.com/user-attachments/assets/26cc1800-7bb4-491f-9f57-e6c115715004" />

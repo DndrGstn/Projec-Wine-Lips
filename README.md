@@ -31,12 +31,11 @@ Explore their music and merch
 View tour dates
 
 Sign up for updates
-### User Stories
-
-
 
 ### Wireframes
-Attach wireframes in this section
+
+<img width="979" height="639" alt="wireframe" src="https://github.com/user-attachments/assets/816ed47b-6944-4bb7-8fcc-d0adf203fe5b" />
+
 ### Typography
 Font: Arial
 

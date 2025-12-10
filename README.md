@@ -91,6 +91,15 @@ Firefox
 <img width="1920" height="1032" alt="Firefox" src="https://github.com/user-attachments/assets/0afe9dce-a727-4d51-ad5a-2cbe620b6139" />
 
 
+I ran into an issue where the navbar layout on the About Us page was breaking on mobile, even though it worked fine everywhere else. The problem turned out to be that this page was missing the following meta tag, which was included on all the other pages
+"meta name="viewport" content="width=device-width, initial-scale=1.0"
+
+<img width="433" height="782" alt="Screenshot 2025-12-09 181830" src="https://github.com/user-attachments/assets/7c1d9313-c289-4eff-9bbc-eada6e27b74f" />
+<img width="436" height="774" alt="bug 1" src="https://github.com/user-attachments/assets/a23f04cf-79de-4b85-9412-1536e18e3c9a" />
+
+Without it, mobile browsers render the page using a large desktop-sized viewport and then scale it down, which causes responsive elements—like the navbar—to behave incorrectly. After adding the tag, the navbar displayed properly on mobile and matched the layout of the other pages.
+
+<img width="406" height="865" alt="about us" src="https://github.com/user-attachments/assets/18198a49-ead3-42ef-ad0a-d2c6b74a0cb5" />
 
 
 ### Google's Lighthouse Performance

@@ -32,6 +32,19 @@ View tour dates
 
 Sign up for updates
 
+## Uses Stories
+User Story 1 — New Visitor
+
+As a first-time visitor,
+I want to quickly understand who Wine Lips are and what they do,
+so that I can decide whether to explore their music, merch, and tour dates.
+
+User Story 2 — Returning Fan
+
+As a returning fan,
+I want fast access to the latest tour information and merch,
+so that I can stay updated on upcoming shows and support the band.
+
 ### Wireframes
 
 <img width="979" height="639" alt="wireframe" src="https://github.com/user-attachments/assets/816ed47b-6944-4bb7-8fcc-d0adf203fe5b" />
@@ -131,19 +144,6 @@ CSS: Validated successfully
 Navbar resizing: Fixed by standardizing dimensions across pages.
 
 Navbar item spacing: Fixed accidental extra space in HTML.
-
-## Uses Stories
-User Story 1 — New Visitor
-
-As a first-time visitor,
-I want to quickly understand who Wine Lips are and what they do,
-so that I can decide whether to explore their music, merch, and tour dates.
-
-User Story 2 — Returning Fan
-
-As a returning fan,
-I want fast access to the latest tour information and merch,
-so that I can stay updated on upcoming shows and support the band.
 
 ## Deployment
 
